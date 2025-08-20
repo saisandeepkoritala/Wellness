@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wellness-tracker/static/css/main.16ae4b43.css",
+    "main.js": "/wellness-tracker/static/js/main.a03403e0.js",
+    "index.html": "/wellness-tracker/index.html",
+    "main.16ae4b43.css.map": "/wellness-tracker/static/css/main.16ae4b43.css.map",
+    "main.a03403e0.js.map": "/wellness-tracker/static/js/main.a03403e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16ae4b43.css",
+    "static/js/main.a03403e0.js"
+  ]
+}
